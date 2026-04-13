@@ -345,6 +345,7 @@ Secure isolated environments for running AI coding agents with controlled access
 - [brood-box](https://github.com/stacklok/brood-box) — Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation and egress control.
 - [Open Agent](https://github.com/Th0rgal/openagent) — Self-hosted control plane for Claude Code with isolated container workspaces and real-time mission streaming.
 - [FlyDex](https://flydex.net) — Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.
+- [RapidClaw](https://rapidclaw.dev/) — One-click deployment platform for AI agents built on OpenClaw. Handles infrastructure, scaling, and model routing.
 
 ### Configuration & Context Management
 
